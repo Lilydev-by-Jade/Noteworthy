@@ -1,4 +1,4 @@
-package com.lilydev.example_mod.integrations
+package com.lilydev.noteworthy.integrations
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory
 import com.terraformersmc.modmenu.api.ModMenuApi
