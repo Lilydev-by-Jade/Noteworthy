@@ -20,6 +20,10 @@ repositories {
 		url "https://maven.terraformersmc.com/releases"
 	}
 
+	maven {
+		name 'Gegy'
+		url 'https://maven.gegy.dev'
+	}
 }
 
 // All the dependencies are declared at gradle/libs.version.toml and referenced with "libs.<id>"
@@ -44,6 +48,9 @@ dependencies {
     modImplementation libs.quilt.language.kotlin
 
     modImplementation libs.modmenu
+
+	modImplementation libs.spruceui
+	include libs.spruceui
 
 }
 
