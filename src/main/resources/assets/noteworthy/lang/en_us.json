@@ -1,0 +1,15 @@
+{
+  "noteworthy.title": "Noteworthy",
+  "noteworthy.gui.create_note": "Create Note",
+  "noteworthy.gui.screen.notes.title": "Notes",
+
+  "noteworthy.gui.label.text_area": "Body",
+  "noteworthy.gui.label.note_title": "Title",
+
+  "noteworthy.gui.textarea.title": "note!",
+
+  "noteworthy.gui.button.save": "Save",
+  "noteworthy.gui.button.cancel": "Cancel",
+  "noteworthy.gui.button.create": "Create",
+  "noteworthy.gui.button.paste_coords": "Paste Coordinates"
+}
